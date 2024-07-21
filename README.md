@@ -11,7 +11,6 @@ I'm Software Engineer building robust, scalable java applications. Proven abilit
   <img height=200 width=47% align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnusaimandala&layout=compact&langs_count=8&card_width=320&hide=contribs,prs&show_icons=true&theme=radical" />
 </a>
 
-![image](https://github.com/user-attachments/assets/a4071297-fe36-4010-938f-ceb50e2a7977)
 
 <!--
 **vishnusaimandala/vishnusaimandala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
